@@ -1,7 +1,9 @@
 # Telugu-Transliteration-Pytorch
 Transliterating romanized words to telugu script words
 
-Foremost, this is an incomplete project. I've started the project in Pytorch and then later shifted to Tensorflow, where I've completed my project made an app and deployed it.
+Foremost, this is an INCOMPLETE PROJECT. 
+
+I've started the project in Pytorch and then later shifted to Tensorflow, where I've completed my project made an app and deployed it.
 Here I am publishing this repo, so that it might be of some use to anyone interested in trying this in Pytorch.
 
 Steps completed till now in the projet:
