@@ -13,3 +13,8 @@ Steps completed till now in the projet:
 5) Created overfit functions(to check model capacity) and train function (to train the model)
 
 Leftover part - Train the function, Log the metrics, search the hyperparameter space
+
+Dataset URL:
+[https://github.com/google-research-datasets/dakshina](https://github.com/google-research-datasets/dakshina)
+
+For queries contact - <a href="https://twitter.com/chittiman">Chitreddy Sairam</a>
